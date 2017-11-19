@@ -1,2 +1,2 @@
-# C-lculoNum-rico
+# CalculoNumerico
 Repositório para códigos da cadeira de Cálculo Numérico.
