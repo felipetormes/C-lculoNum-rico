@@ -1,4 +1,4 @@
-﻿disp("Q7");
+disp('Q7');
 
 function u=euler_mod(h,Tmax)  
   y= 1.4;  
